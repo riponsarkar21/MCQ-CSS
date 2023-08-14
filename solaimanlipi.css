@@ -1,0 +1,6 @@
+@font-face { 
+    font-family: SolaimanLipi; 
+    src: local('SolaimanLipi'),
+         url('https://github.com/wp-plugins/tcbd-bangla-font-fixer/blob/master/fonts/solaimanlipi-webfont.woff') format('woff'),
+         url('https://github.com/wp-plugins/tcbd-bangla-font-fixer/blob/master/fonts/solaimanlipi-webfont.woff2') format('woff2');
+    }
